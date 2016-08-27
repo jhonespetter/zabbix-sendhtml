@@ -21,7 +21,7 @@ Hora do Evento: {EVENT.TIME}
 <pre><code>
 http://www.html.am/html-editors/online-html-editor.cfm
 http://www.quackit.com/html/online-html-editor/
-<pre><code>
+</code></pre>
 
 #Descricao
 Colocar o script no AlertScripts, alterar as variaveis SRVSMTP, FROM e PASS, criar seu arquivo HTML e adicionar em ConfigurationAction no campo 'Default message' o HTML gerado.
