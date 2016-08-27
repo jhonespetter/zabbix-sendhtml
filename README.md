@@ -2,7 +2,7 @@
 
 #Syntax:
 <pre><code>
-[root@zabbix ~]# ./sendhtml.py destinatario@email.com.br ASSUNTO '<h1>MENSAGEM</h1>'
+[root@zabbix ~]# ./sendhtml.py destinatario@email.com.br ASSUNTO "<h1>MENSAGEM</h1>"
 </code></pre>
 
 #Macros padrao:
